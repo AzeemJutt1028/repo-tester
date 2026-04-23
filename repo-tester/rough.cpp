@@ -19,6 +19,7 @@ int main()
 	while(true)
 	{
 		cout << "Kutti ke bache request utha";
+		cout << "Kutti ke bache request utha";
 		if (true)
 		{
 			cout << "Randi ka bachha";
