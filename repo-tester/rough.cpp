@@ -8,7 +8,6 @@ int main()
 	cout << "Lun te char";
 	cout << "Lun te char";
 	cout << "Lun te char";
-	cout << "Lun te char";
 	system("pause");
 	return 0;
 }
